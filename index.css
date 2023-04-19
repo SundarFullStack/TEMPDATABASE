@@ -1,0 +1,25 @@
+body{
+
+    background-color: #b5e8e3b5;
+}
+
+label{
+    margin-left:3px;
+
+    
+
+}
+
+select{
+    margin-left:3px;
+}
+
+table{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+tbody{
+
+    background-color: #d4e9e2;
+    
+}
